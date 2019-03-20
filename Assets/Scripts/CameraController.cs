@@ -40,6 +40,7 @@ public class CameraController : MonoBehaviour {
 		}
 		
 		offset = cam.transform.position - player.transform.position;
+		//GITTEST
 	}
 
 
